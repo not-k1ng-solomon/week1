@@ -1,7 +1,8 @@
 {
 	"headers":{
 		"/*":{
-			"X-Author": "davlet"
+			"X-Author": "davlet",
+			"Access-Control-Allow-Origin": "*"		
 		}
 	}
 }
